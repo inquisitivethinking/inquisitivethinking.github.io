@@ -31,7 +31,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/milleniumbridge.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -39,12 +39,14 @@ h6 {
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
+    background-color: rgba(0, 0, 0, 0.20);
 }
 
 .intro-message > h1 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 5em;
+    
 }
 
 .intro-divider {
@@ -157,10 +159,19 @@ h6 {
 }
 
 footer {
-    padding: 50px 0;
+    padding: 20px 0;
     background-color: #f8f8f8;
 }
 
 p.copyright {
-    margin: 15px 0 0;
+    margin: 5px 0 0;
+}
+
+.col-ft-1 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 50px;
+    text-align: center;
 }

@@ -2,14 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description."
+url: http://www.inquisitivethinking.com
+title: Inquisitive Thinking Ltd
+email: eva@inquisitivethinking.com
+author: Eva Villarroya
+description: > # "E-commerce Hybris consultant. Keep in touch for availability."
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -25,8 +22,6 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://twitter.com/inquisitivethinking
   - title: linkedin
-    url: 
+    url: https://uk.linkedin.com/pub/eva-villarroya/8/69/887
